@@ -13,10 +13,10 @@ Other Free Books by Allen Downey are available from [Green Tea Press](https://gr
 ## My progress
 I fork this repository in order to record my progress in reading Think Bayas 2. You can see my answers in [notebook folder](notebooks).
 
-[2021/06/01](0c95085797b50c9aecff0bf86232875e8ee8dd53) Chapter 01 reading, Finished ✅
-[2021/06/01](0c95085797b50c9aecff0bf86232875e8ee8dd53) Chapter 01 exercises, Done ✅
-[2021/06/02](fab457c083ae0dbe8c77401e318156b5319db545) Chapter 01 check answers, Done ✅
+- [2021/06/01](https://github.com/anvaari/ThinkBayes2/commit/0c95085797b50c9aecff0bf86232875e8ee8dd53) Chapter 01 reading, Finished ✔️
+- [2021/06/01](https://github.com/anvaari/ThinkBayes2/commit/0c95085797b50c9aecff0bf86232875e8ee8dd53) Chapter 01 exercises, Done ✔️
+- [2021/06/02](https://github.com/anvaari/ThinkBayes2/commit/fab457c083ae0dbe8c77401e318156b5319db545) Chapter 01 check answers, Done ✔️
 
-[2021/06/03](604e637d02a3063fa1eda82202acb62459928022) Chapter 02 reading, Finished ✅
-[2021/06/03](604e637d02a3063fa1eda82202acb62459928022) Chapter 02 exercises, Done ✅
-[2021/06/03](65d7bbcf81163f92621e4a40072cf2378835271b) Chapter 02 check answers, Done ✅
+* [2021/06/03](https://github.com/anvaari/ThinkBayes2/commit/604e637d02a3063fa1eda82202acb62459928022) Chapter 02 reading, Finished ✔️
+* [2021/06/03](https://github.com/anvaari/ThinkBayes2/commit/604e637d02a3063fa1eda82202acb62459928022) Chapter 02 exercises, Done ✔️
+* [2021/06/03](https://github.com/anvaari/ThinkBayes2/commit/65d7bbcf81163f92621e4a40072cf2378835271b) Chapter 02 check answers, Done ✔️
