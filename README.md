@@ -20,3 +20,5 @@ I fork this repository in order to record my progress in reading Think Bayas 2. 
 * [2021/06/03](https://github.com/anvaari/ThinkBayes2/commit/604e637d02a3063fa1eda82202acb62459928022) Chapter 02 reading, Finished ✔️
 * [2021/06/03](https://github.com/anvaari/ThinkBayes2/commit/604e637d02a3063fa1eda82202acb62459928022) Chapter 02 exercises, Done ✔️
 * [2021/06/03](https://github.com/anvaari/ThinkBayes2/commit/65d7bbcf81163f92621e4a40072cf2378835271b) Chapter 02 check answers, Done ✔️
+
+-  [2021/06/07](https://github.com/anvaari/ThinkBayes2/commit/e4a59a8dade16673c77474ba656a5b734bb4a620) Chapter 03 reading, Finished ✔️
